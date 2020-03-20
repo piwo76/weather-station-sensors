@@ -1,0 +1,2 @@
+adafruit-circuitpython-dht
+requests==2.23.0
